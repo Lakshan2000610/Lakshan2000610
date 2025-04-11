@@ -94,8 +94,3 @@ Offensive Security | Penetration Testing | Ethical Hacking | Web Development | P
 
 ---
 
-Would you like me to also:
-- Export this as a downloadable `.md` file?
-- Create a matching banner or profile picture with your deep purple-hacker theme?
-
-Let me know — we’ll finish your GitHub transformation ⚔️💻
